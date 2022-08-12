@@ -10,7 +10,7 @@
 	"stock": 5,
 	"reviews": 58,
 	"stars": 4.8,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -55,7 +55,7 @@
 	"stock": 10,
 	"reviews": 28,
 	"stars": 4.4,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -99,7 +99,7 @@
 	"stock": 12,
 	"reviews": 28,
 	"stars": 4.2,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -144,7 +144,7 @@
 	"stock": 6,
 	"reviews": 28,
 	"stars": 3.8,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -189,7 +189,7 @@
 	"stock": 4,
 	"reviews": 28,
 	"stars": 2.8,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -234,7 +234,7 @@
 	"stock": 6,
 	"reviews": 12,
 	"stars": 4.1,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -279,7 +279,7 @@
 	"stock": 6,
 	"reviews": 23,
 	"stars": 3.7,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -325,7 +325,7 @@
 	"stock": 6,
 	"reviews": 23,
 	"stars": 4.2,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -370,7 +370,7 @@
 	"stock": 6,
 	"reviews": 23,
 	"stars": 4.6,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -414,7 +414,7 @@
 	"stock": 6,
 	"reviews": 23,
 	"stars": 4.2,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -458,7 +458,7 @@
 	"stock": 6,
 	"reviews": 60,
 	"stars": 4.8,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
@@ -503,7 +503,7 @@
 	"stock": 6,
 	"reviews": 60,
 	"stars": 4.4,
-	"image": [{
+	"images": [{
 		"id": "randomid1",
 		"width": 1080,
 		"height": 650,
