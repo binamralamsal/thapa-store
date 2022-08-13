@@ -21,7 +21,7 @@
 }, {
 	"id": "thapaserialnoc",
 	"name": "Dell Series",
-	"company": "Dell",
+	"company": "dell",
 	"price": 600000,
 	"colors": ["#22D3EF", "#CDD0D0"],
 	"image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -30,7 +30,7 @@
 }, {
 	"id": "thapaserialnod",
 	"name": "Nokia 420",
-	"company": "Nokia",
+	"company": "nokia",
 	"price": 12599,
 	"colors": ["#000", "#000000", "#CDD0D0"],
 	"image": "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -40,7 +40,7 @@
 }, {
 	"id": "thapaserialnoe",
 	"name": "Mac Pc",
-	"company": "Apple",
+	"company": "apple",
 	"price": 4000099,
 	"colors": ["#000", "#CDD0D0"],
 	"image": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -50,7 +50,7 @@
 }, {
 	"id": "thapaserialnof",
 	"name": "Macbook Pro",
-	"company": "Apple",
+	"company": "apple",
 	"price": 42999,
 	"colors": ["#000000", "#CDD0D0"],
 	"image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -60,7 +60,7 @@
 }, {
 	"id": "thapaserialnog",
 	"name": "Asus gseries",
-	"company": "ASUS",
+	"company": "asus",
 	"price": 23999,
 	"colors": ["#CDD0D0", "#000"],
 	"image": "https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -80,7 +80,7 @@
 	"shipping": true
 }, {
 	"id": "thapaserialnoi",
-	"name": "Iwatch",
+	"name": "iwatch",
 	"price": 39999,
 	"company": "Apple",
 	"colors": ["#000000"],
@@ -91,7 +91,7 @@
 }, {
 	"id": "thapaserialnoj",
 	"name": "user need",
-	"company": "Apple",
+	"company": "apple",
 	"price": 300099,
 	"colors": ["#ff0000", "#22D3EF", "#000000"],
 	"image": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -100,7 +100,7 @@
 }, {
 	"id": "thapaserialnok",
 	"name": "rolex premium",
-	"company": "Rolex",
+	"company": "rolex",
 	"price": 999999,
 	"colors": ["#000000", "#CDD0D0"],
 	"image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
