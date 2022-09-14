@@ -3,7 +3,7 @@
       "id":"thapaserialnoa",
       "name":"iphone x",
       "company":"apple",
-      "price":600000,
+      "price":6000000,
       "colors":[
          "#ff0000",
          "#000000",
@@ -58,7 +58,7 @@
       "id":"thapaserialnob",
       "name":"samsung s20",
       "company":"samsung",
-      "price":500000,
+      "price":5000000,
       "colors":[
          "#000",
          "#22D3EF"
@@ -112,7 +112,7 @@
       "id":"thapaserialnoc",
       "name":"Dell Series",
       "company":"dell",
-      "price":702899,
+      "price":600000,
       "colors":[
          "#22D3EF",
          "#CDD0D0"
@@ -165,7 +165,7 @@
       "id":"thapaserialnod",
       "name":"Nokia 420",
       "company":"nokia",
-      "price":102999,
+      "price":12599,
       "colors":[
          "#000000",
          "#CDD0D0"
@@ -219,7 +219,7 @@
       "id":"thapaserialnoe",
       "name":"Mac Pc",
       "company":"apple",
-      "price":200999,
+      "price":4000099,
       "colors":[
          "#000",
          "#CDD0D0"
@@ -273,7 +273,7 @@
       "id":"thapaserialnof",
       "name":"Macbook Pro",
       "company":"apple",
-      "price":699999,
+      "price":42999,
       "colors":[
          "#000000",
          "#CDD0D0"
@@ -327,7 +327,7 @@
       "id":"thapaserialnog",
       "name":"Asus gseries",
       "company":"asus",
-      "price":509999,
+      "price":23999,
       "colors":[
          "#CDD0D0",
          "#000"
@@ -380,7 +380,7 @@
    {
       "id":"thapaserialnoh",
       "name":"accessories",
-      "price":409999,
+      "price":1099999,
       "company":"lenova",
       "colors":[
          "#000",
@@ -435,7 +435,7 @@
    {
       "id":"thapaserialnoi",
       "name":"Iwatch",
-      "price":109999,
+      "price":39999,
       "company":"apple",
       "colors":[
          "#000000"
@@ -543,7 +543,7 @@
       "id":"thapaserialnok",
       "name":"rolex premium",
       "company":"rolex",
-      "price":99999,
+      "price":999999,
       "colors":[
          "#000000",
          "#CDD0D0"
